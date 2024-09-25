@@ -1,4 +1,4 @@
-package com.br.bi.online_clothing_store
+package com.br.flutter.modelo_auth_google
 
 import io.flutter.embedding.android.FlutterActivity
 

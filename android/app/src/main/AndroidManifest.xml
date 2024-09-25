@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.br.bi.online_clothing_store">
+    package="com.br.flutter.modelo_auth_google">
 
     <application
         android:label="online_clothing_store"
